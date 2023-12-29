@@ -12,4 +12,4 @@ To use this project, follow these steps:
 1. Clone the repository.
 
 
-![Model Landing](ppo-cartpole-step-0-to-step-500.mp4)
+![Model Landing]('ppo-cartpole-step-0-to-step-500.mp4')
